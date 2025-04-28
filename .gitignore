@@ -1,0 +1,23 @@
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Minikube binary
+minikube-linux-amd64
+
+# Kubernetes configuration files
+k8s/*.yaml
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Docker-related files
+Dockerfile
